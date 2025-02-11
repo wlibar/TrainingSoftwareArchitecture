@@ -1,0 +1,79 @@
+
+Una vez leída la Guía de diseño de cursos de AS, describa qué cambios hizo en su curso a nivel de contenido, objetivos, metodología
+
+Respuesta: 
+
+La guía sirvió para armar una planificación del curso. En especial sirvió para organizar las conferencias de invitados. La organización consistió en definir los temas que se iban a presentar para que estuvieran de acuerdo a los temas que se darían en ese momento en la materia.
+También se planificó el ejercicio que se iba a desarrollar durante el transcurso del curso. Se acordó entre la cátedra de Patrones de Arquitectura de Software (Argentina) con la cátedra de Ingeniería de Software 2 y Laboratorio (Colombia) en desarrollar una aplicación de E-commerce similar a Mercado Libre+Delivery que llamamos OpenMarket. Lo importante de la planificación consistió en sincronizar los cursos de Colombia y Argentina para que llegaran simultáneamente al tercer sprint.
+Finalmente se organizaron los temas que se darían en los dos países en especial (Principios Solid, Estilos Arquitectónicos y Microservicios)
+
+Un detalle que no se planificó pero que fue de mucha utilidad fue la posibilidad de grabar las teorías. Esto permitió que los alumnos de los dos países pudieran acceder a los contenidos teóricos en cualquier momento. Estas grabaciones también sirvieron para las charlas de expertos invitados. 
+
+2. ¿La planificación de su curso de AS mediante la guía fue de utilidad, vale la pena utilizarla, por ejemplo, le ahorró tiempo y esfuerzo, o por el contrario le agregó más trabajo?
+
+Respuesta: 
+
+La guía sirvió mucho para adelantar las discusiones al principio de año. Luego lo planificado se pudo llevar a cabo a pesar de las dificultades que enumero:
+
+- Alumnos con base distinta en los do países: Los alumnos colombianos tenían menos conocimientos iniciales, pero tuvieron más horas de dedicación. Con esto llegaron bien armados al tercer Sprint.
+- Diferencia horaria y muchas materias: La diferencia horaria no era muy grande (2 hs.) pero los alumnos tenían muchas materias en simultáneo. Por esto, costaba organizar reuniones técnicas o de organización entre miembros de distintos países.
+- Problemas con el laboratorio: Hubo inconvenientes con el Laboratorio en Colombia en los 2 primeros meses y se tuvo que cambiar el profesor inicial. Luego con el aporte de Santiago Hyun y Julio Hurtado se pudo orientar bien el Laboratorio y se resolvieron los problemas iniciales.
+
+3. La Guía a través de las pasos que plantea para diseñar un curso de AS, es fácil de seguirla, tiene pasos complejos de entender?
+
+La planificación fue muy sencilla. Primero se escribió un borrador y con el acompañamiento de Libardo Pantoja Yepez se organizó el curso.
+
+4. ¿Acorde a la Guía de Diseño de Cursos de AS, qué patrones de formación decidió aplicar en su curso y por qué?
+
+Respuesta: 
+
+Se utilizaron principalmente dos patrones de formación:
+
+- Proyecto Largo. Lo más real posible con muchos requisitos, con toma de decisiones de Arquitectura. Este patrón se ejecutó 2 veses en la cátedra de Argentina. Una para desarrollar una versión monolítica de la aplicación de OpenMarket y otra para desarrollar la misma aplicación utilizando microservicios. 
+- Conferencia de Expertos invitados. Los invitados son arquitectos reconocidos en diferentes empresas del sector de desarrollo de software. Los temas que se trataron tenían nexo con el tema que se estaba dando en ese momento del curso. Este patrón se aplicó 3 veces durante el transcurso del curso. Los invitados fueron:
+    * Leandro Quiroga (Arquitecto del Proyecto E-Sidif del ministerio de Economía de Argentina)
+	* Joaquin Alem y Leandro Zoi (Lider de proyecto y Arquitecto de Mercado Libre Argentina)
+	* Santiago Urrizola (Arquitecto de FluxIt - Argentina)
+
+5. ¿Explique cómo implementó (en qué momento del semestre, con qué recursos humanos y técnicos) los patrones de formación?
+
+Respuesta: 
+
+Los cursos (Argentina-Colombia) se dictaron durante el primer semestre de 2023, desde Marzo a Julio. 
+El grupo de Argentina estaba formado por: Profesor: Luis Mariano Bibbo. Colaboradores: Marcelo Barreto (especialista en Dev-Ops) y Agustín Ortú (Especialista en diseño con Objetos y Java)
+Los colaboradores participaban especialmente en el seguimiento del proyecto a los grupos de alumnos resolviendo las dudas técnicas. Marcelo Barreto dictó una charla de Docker y Docker-compose durante el curso.
+
+6. ¿Qué impacto cree que tuvieron estos patrones en el desarrollo de habilidades de sus estudiantes a nivel de creación, documentación y evaluación de la AS?
+
+Respuesta: 
+
+La aplicación de los patrones de formación fueron muy útiles. A continuación se detalla las ventajas de su aplicación:
+
+- Proyecto Largo. Permitió organizar las entregas de los productos desarrollados por los alumnos lo que permitió: Organizar la evaluación, ejecutar los Test de las aplicaciones desarrolladas, Evaluar la documentación, Ejecutar las colecciones de postman para probar los módulos)
+
+- Conferencia de expertos invitados. Permitió transmitir la utilidad de los temas tratados. Los alumnos pudieron ver casos reales aplicados en la industria. Esto aportó: Motivación y cercanía al mundo de la industria del software. 
+
+¿Qué dificultades tuvo aplicando los patrones de formación durante el desarrollo del curso? 
+
+Respuesta: 
+
+
+- Una de las principales dificultades fue la falta de tiempo en general que tienen los estudiantes en los últimos años de la carrera. En el caso de Argentina los alumnos en los últimos años están trabajando y tienen en general poco tiempo para dedicarse a la facultad. En el caso de los alumnos de Colombia, en el semestre tienen muchas materias que atender.
+
+- Alumnos con base distinta en los 2 países: Los alumnos colombianos tenían menos conocimientos iniciales, pero tuvieron más horas de dedicación. Con esto llegaron bien armados al tercer Sprint.
+
+- Diferencia horaria y muchas materias: La diferencia horaria no era muy grande (2 hs.) pero los alumnos tenían muchas materias en simultáneo. Por esto, costaba organizar reuniones técnicas o de organización entre miembros de distintos países.
+
+- Problemas con el laboratorio: Hubo inconvenientes con el Laboratorio en Colombia en los dos primeros meses y se tuvo que cambiar el profesor inicial. Luego con el aporte de Santiago Hyun y Julio Hurtado se pudo orientar bien el Laboratorio y se resolvieron los problemas iniciales.
+
+8. ¿Considera que los patrones de formación que empleó, permiten acercar la formación en arquitectura de software al mundo real de la industria de software? }
+
+Respuesta: 
+
+Si, especialmente por las conferencias de expertos invitados de la industria que trajeron casos reales donde se aplicaban en desarrollos en la industria los conceptos explicados en la materia.
+
+9. ¿Qué le hace falta a la Guía propuesta para que cumpla su propósito de proponer un conjunto de pasos y estrategias de apoyo en el diseño y ejecución de cursos de arquitecturas de software a nivel de pre-grado?
+
+Respuesta: 
+
+Ejemplos, Estrategias de evaluación, Tutoriales

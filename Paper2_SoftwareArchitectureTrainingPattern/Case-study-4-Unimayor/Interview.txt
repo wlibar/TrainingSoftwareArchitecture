@@ -1,0 +1,69 @@
+A continuación la transcripción de la entrevista realizada a la profesora María Isabel Bastidas, docente del curso de Diseño y Arquitectura de Software de la Institución Universitaria Mayor del Cauca (Popayán), en el período académico 2023.2.
+
+1. ¿Una vez leída la Guía de diseño de cursos de AS, describa qué cambios hizo en su curso a nivel de contenido, objetivos, metodología?
+
+Respuesta:
+
+Un primer cambio fue el orden en que se impartieron los temas. Acorde a la guía se escogió un orden distinto y más organizado. Por ejemplo, originalmente el tema de los estilos de arquitectura estaba en el último capítulo. También modifiqué la metodología ya que aplicamos varios patrones de formación que hicieron el curso más práctico.
+
+2. ¿La planificación de su curso de AS mediante la guía fue de utilidad, vale la pena utilizarla, por ejemplo, le ahorró tiempo y esfuerzo, o por el contrario le agregó más trabajo?
+
+Respuesta:
+
+En mi caso que era docente que impartía el curso por primera vez, la guía me ahorro bastante tiempo y esfuerzo para planificar mi curso.
+
+3. ¿La Guía a través de las pasos que plantea para diseñar un curso de AS, es fácil de seguirla, tiene pasos complejos de entender?
+
+Respuesta:
+
+No para nada, la guía es muy fácil de entender y aplicar. Los cinco pasos que plantea y sus actividades son muy comprensibles.
+
+
+4. ¿Acorde a la Guía de Diseño de Cursos de AS, qué patrones de formación decidió aplicar en su curso y por qué?
+
+Respuesta:
+
+De la lista de siete patrones de formación que presenta la guía elegí cuatro:
+
+- Miniproyectos.
+- Proyecto grande.
+- Casos reales con invitados de la industria.
+- Resolución de problemas de arquitectura de software con katas.
+
+No elegí más porque el escaso tiempo del curso, tan solo son tres horas de clase semanales.
+
+5. ¿Explique cómo implementó (en qué momento del semestre, con qué recursos humanos y técnicos) los patrones de formación?
+
+Respuesta:
+
+El patrón de formación de miniproyectos lo implementé enseñando cada patrón de arquitectura en una semana. En la sesión de dos horas del lunes les di la teoría y un ejemplo en código java. El dia martes en la sesión de una hora los estudiantes trabajaron en una extensión de ese proyecto agregando una funcionalidad al ejemplo.  Los ejemplos fueron tomados del material de ayuda que Usted me facilitó.
+
+El patrón de formación de proyectos largos fue implementado asignando los requisitos de un proyecto a cada equipo. Se formaron 9 equipos de tres estudiantes cada uno. Este proyecto ya venían trabajando los estudiantes desde el semestre anterior y tenían hecha la ingeniería de requisitos y modelado una versión monolítica con C4. A cada equipo se le asignó un estilo de arquitectura como requisito y ellos eligieron la tecnología. Las tecnologías que usaron fueron variadas: php, java, .NET, python, javascript y flutter. 
+
+El patrón de casos reales con invitados de la industria, se planearon tres charlas, pero finalmente pudimos orientar dos. La primera la realizó el ingeniero Santiago Hyun quien mostró un caso de diseño de una empresa de productos fabricados con el gusano de seda. La segunda, fue orientada por el ingeniero Nelson Chantre quien mostró cómo es el proceso de desarrollo de la empresa Home Center.
+
+Finalmente el patrón de katas de arquitectura se realizó haciendo ejercicios previos de unas katas como trabajo individual a partir de un video realizado por el ingeniero Libardo. Luego, al final de semestre se realizó un kata de arquitectura en clase invitando a dos ingenieros de Unicauca y dos arquitectos de la industria quienes evaluaron las katas de los equipos y dieron su realimentación.
+
+6. Qué impacto cree que tuvieron estos patrones en el desarrollo de habilidades de sus estudiantes a nivel de creación, documentación y evaluación de la AS?
+
+Respuesta:
+
+Siento que los cuatro patrones influyeron mucho en las habilidades de AS en los estudiantes porque permitieron hacer cosas prácticas y tener un punto de encuentro con representantes de la industria.
+
+7. ¿Qué dificultades tuvo aplicando los patrones de formación durante el desarrollo del curso? 
+
+Respuesta:
+
+La principal dificultad es el factor tiempo. Tiempo porque soy ocasional, trabajo en casa y no puedo dedicarme mucho tiempo a la asignatura. Además, el tiempo de los invitados a la clase tambien es complejo de planificar pues las clases son en la noche y muchos despues del horario de trabajo les queda complicado asistir a actividades planeadas para la asignatura. Finalmente, la asignatura tenía dos horas los lunes y durante el semestre hubo muchos festivos, lo cual hizo complejo impartir las actividades y temas planificadas para el curso.
+
+8. ¿Considera que los patrones de formación que empleó, permiten acercar la formación en arquitectura de software al mundo real de la industria de software? 
+
+Respuesta:
+
+Definitivamente si. Todos los patrones de formación tenían el propósito de acercar al estudiante al mundo de la industria de software.
+
+9. ¿Qué le hace falta a la Guía propuesta para que cumpla su propósito de proponer un conjunto de pasos y estrategias de apoyo en el diseño y ejecución de cursos de arquitecturas de software a nivel de pre-grado?
+
+Respuesta:
+
+Yo pienso que la guía está bastante bien, a mi me ayudó mucho. No le agregaría ni quitaría nada.

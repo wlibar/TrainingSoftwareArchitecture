@@ -1,0 +1,42 @@
+planificación
+-------------
+
+El encuentro se planificó teniendo en cuenta el objetivo del mismo, la logística, el perfil de las personas a invitar, el lugar, fecha, hora y las estrategias de
+motivación a los invitados. El Dr Luis Mariano Bibbó, profesor de la Facultad de Informática de la UNLP, jugó el rol de investigador de esta experiencia y 
+facilitador de la logística.
+
+Esta validación se llevó a cabo aprovechando una estancia de investigación en el Laboratorio de Investigación y Formación en Informática Avanzada  (LIFIA) 
+de la Universidad Nacional de la Plata (UNLP), Argentina en los meses de marzo y abril de 2023. El perfil que buscado fue docentes de la Facultad de Informática 
+que trabajan temas de ingeniería de software y/o lenguaje de patrones.
+El taller se planificó para ser llevado a cabo en un tiempo máximo de una hora y media. Elegimos como moderador al profesor Federico Balaguer, 
+quien tendría como función conducir los pasos durante el encuentro.  En la apertura  uno de los autores daría una introducción corta de 5 minutos indicando el propósito del encuentro y las reglas de juego. En seguida vendría la intervención de cada uno de los cuatro evaluadores. Los autores de los patrones no tendrían derecho a respuesta, solamente recibir las observaciones. EL taller sería grabado del audio para facilitar el posterior análisis.
+
+Luego se preparó un documento con una introducción al tema de investigación y la descripción de uno de los patrones de formación. 
+Elegimos el primer patrón "Mini-Projects-based training" por ser el más genérico para que la realimentación recibida pudiera ser replicada a los demás patrones.
+El documento fue enviado a los expertos evaluadores mediante email dos semanas antes del encuentro.
+
+En seguida, hicimos  el listado de los docentes de la UNLP que cumplieran el perfil para invitarlos al taller mediante e-mail. La siguiente Tabla
+muestra el listado de los docentes invitados y sus áreas de interés. Debemos resaltar que la mayoría de ellos tienen una trayectoria reconocida a nivel mundial en temas de objetos, lenguajes y patrones y han tenido experiencias como evaluadores en la Conference on Pattern Languages of Programs (PLOP) \footnote{Pattern Languages of Programs (PLoP) conference, es un evento de primer orden en el que autores y entusiastas de los patrones se reúnen, debaten y aprenden más sobre patrones, diseño, desarrollo de software y el mundo de la construcción en general.}. Decidimos hacer el encuentro de manera presencial, en una sala de reuniones de LIFIA, el martes 2 de Mayo de 2023. La motivación la hicimos con una charla corta previa aprovechando un espacio dado en las reuniones mensuales del grupo.
+
+No. Nombre              Titulo                                                                          Areas-de-interés
+1   Federico Balaguer   Doctor en Ciencias de la Computación, University of Illinois Urbana-Champaign   Algoritmos, Lenguajes de programación, Ingeniería de software 
+2   Julián Grigera      Doctor en Ciencias Informáticas, UNLP                                           Ingeniería Web, Usabilidad, Metodologías de Desarrollo Dirigidas por Modelos, Metodologías Ágiles de Desarrollo
+3   Alejandro Fernández Doctor en Ciencias de la Computación, University of Illinois Urbana-Champaign   Algoritmos, Lenguajes de programación, Ingeniería de software
+4   Alejandra Garrido   Doctora en Ciencias de la Computación, University of Illinois Urbana-Champaign  Refactoring, experiencia de usuario.
+
+
+Análisis de los resultados
+---------------------------
+
+Los evaluadores resaltaron la utilidad del patrón para diseñar cursos de AS. Durante este proceso rico en recomendaciones y sugerencias, recibimos comentarios muy acertados :
+
+- Mejorar la redacción del problema del patrón para alinearlo con la solución.
+	
+- Aclarar algunos conceptos que generan dudas como el nivel inicial de los estudiantes, proyecto pequeño, problemas de formación, atributos de calidad, tácticas de arquitectura, etc. 
+	
+- Mejorar la redacción de las fuerzas del patrón teniendo en cuenta las perspectivas del docente, la industria y los estudiantes.
+	
+- Proponer una figura más simple que represente los principales elementos del patrón de tal forma que haya una conexión entre el texto y la figura. 
+	
+- El ejemplo del patrón está muy largo, se debe simplificar su redacción.
+- Corregir algunos errores de redacción.

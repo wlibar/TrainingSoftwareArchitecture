@@ -1,0 +1,51 @@
+Id,Question,Category,Responses
+1,C01,Does not help,0
+2,C01,Little help,0
+3,C01,Neutral,0
+4,C01,Helps,1
+5,C01,Helps a lot,4
+6,C02,Does not help,4
+7,C02,Little help,0
+8,C02,Neutral,0
+9,C02,Helps,2
+10,C02,Helps a lot,3
+11,C05,Does not help,0
+12,C05,Little help,0
+13,C05,Neutral,1
+14,C05,Helps,3
+15,C05,Helps a lot,1
+16,C08,Does not help,0
+17,C08,Little help,0
+18,C08,Neutral,1
+19,C08,Helps,3
+20,C08,Helps a lot,1
+21,C11,Does not help,0
+22,C11,Little help,0
+23,C11,Neutral,2
+24,C11,Helps,3
+25,C11,Helps a lot,0
+26,C12,Does not help,0
+27,C12,Little help,0
+28,C12,Neutral,1
+29,C12,Helps,3
+30,C12,Helps a lot,1
+31,C18,Does not help,0
+32,C18,Little help,0
+33,C18,Neutral,0
+34,C18,Helps,1
+35,C18,Helps a lot,4
+36,C22,Does not help,0
+37,C22,Little help,0
+38,C22,Neutral,2
+39,C22,Helps,2
+40,C22,Helps a lot,1
+41,C23,Does not help,0
+42,C23,Little help,0
+43,C23,Neutral,0
+44,C23,Helps,4
+45,C23,Helps a lot,1
+46,C28,Does not help,0
+47,C28,Little help,1
+48,C28,Neutral,1
+49,C28,Helps,2
+50,C28,Helps a lot,1

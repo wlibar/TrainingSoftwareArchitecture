@@ -1,0 +1,18 @@
+Preguntas de investigación
+--------------------------
+
+RQ1: ¿Qué impacto tuvo los patrones de formación en el desarrollo de habilidades de los estudiantes al final del curso?
+
+RQ2: ¿Cómo fue evaluada la utilidad percibida y la facilidad de uso de la Guía por el docente en este estudio de caso?
+
+RQ3: ¿Cómo fue la satisfacción del curso por parte de los estudiantes?
+
+Contexto
+---------
+
+Este caso se llevó a cabo en el primer periodo académico 2023 del curso optativo de Patrones de Arquitectura de Software de la Facultad de 
+Informática de la Universidad Nacional de la Plata, Argentina. Este curso fue cursado por 14 estudiantes de las carreras de Licenciatura en 
+Informática y Licenciatura en Sistemas. El curso tiene como asignaturas prerrequisito Proyecto de Software, Orientación a Objetos 2 e Ingeniería de Software 2. 
+El estudio de caso es de \textit{mejora}, pues trata de mejorar ciertos aspectos en el fenómeno estudiado como son las competencias de los estudiantes en temas 
+de AS.
+

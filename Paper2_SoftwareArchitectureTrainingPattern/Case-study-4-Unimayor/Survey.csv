@@ -1,0 +1,33 @@
+Timestamp,Email Address,"En general, qué tan satisfecho quedó con lo aprendido al final del curso en temas de diseño y arquitectura de software?",¿Qué tan útiles le parecen las habilidades y conocimientos que desarrolló a lo largo del curso en las áreas de Arquitectura de Software para afrontar proyectos del mundo real?,Qué le agregaría o quitaría al curso de Diseño y Arquitectura de Software para mejorar en versiones futuras?,"Qué comentarios en general tiene de las estrategias que se utilizaron a lo largo del curso (mini-proyectos, proyecto grande, charlas y katas de arquitectura)?",C01. Identifica claramente los atributos de calidad relevantes del software que conducirán la arquitectura de un sistema de software a construir.,C02. Diseña consistentemente la arquitectura de software definiendo cómo los componentes interactúan entre si.,C05.  Evalúa independientemente una arquitectura de software para determinar la satisfacción de los requisitos funcionales y no funcionales.,C08. Realiza imparcialmente un análisis de compensación (trade-off) para evaluar arquitecturas.,C11. Mantiene los sistemas existentes y su arquitectura para lograr la evolución de los sistemas software.,C18. Analiza críticamente los requisitos de software funcionales y de atributos de calidad.,C22. Realiza periódicamente revisiones del código fuente escrito por el equipo de desarrollo.,C23. Desarrolla componentes de software reutilizables.,"C28. Diseña e implementa procedimientos de prueba considerando aspectos de la arquitectura (tipos de componentes/servicios, integración)."
+11/27/2023 14:10:02,jpcruz@unimayor.edu.co,5,5,Que se siga haciendo más práctico que teorico,Exelente ,5,4,4,4,4,5,3,3,5
+11/27/2023 14:12:10,bshoyos@unimayor.edu.co,5,5,,"Excelente clase , se aprende la verdadera estructura para crear un proyecto",5,5,5,5,5,5,5,5,5
+11/27/2023 14:15:11,juaneraso@unimayor.edu.co,4,4,Mas disponibilidad de tiempo y laboratorio para la clase,"Satisfactorias, ya que nos permiten ver algo del campo laboral ",4,4,4,4,4,4,4,4,4
+11/27/2023 14:15:11,accastro@unimayor.edu.co,4,5,Que sean clases más prácticas y menos teoria,"Todo el curso estuvo muy bien hecho,pero me gustaría que hubieran más ejercicios practicos",4,4,5,4,5,5,5,4,5
+11/27/2023 14:17:54,carolinavilla@unimayor.edu.co,5,5,"Ninguno, todo esta bien. ",Ninguno ,4,4,5,4,4,5,4,4,4
+11/27/2023 14:25:37,danielalean@unimayor.edu.co,3,3,Una base de arquitectura mas actual aplicable a los proyectos ,que estuvieron muy chebres  ,4,4,4,4,5,4,4,5,4
+11/27/2023 14:43:54,aburbano@unimayor.edu.co,5,5,"Como recomendación general quizá sería muy buena idea implementar más clases prácticas para aplicar lo que se aprende en el curso.
+Adicional a esto, dar más tiempo a la clase para tener un espacio más amplio de cara a solucionar dudas y tocar temas que no hayan quedado del todo claras, en lugar de dividir la clase en varias horas a la semana. ","Personalmente creo que fueron estrategias muy acertadas, teniendo en cuenta que estas nos ayudan a practicar lo que vamos aprendiendo, a demás de que simulan escenarios de la vida real, también podemos tener una buena retroalimentación de parte de la docente como de los evaluadores, dependiendo del trabajo. ",4,4,4,3,5,5,5,4,3
+11/27/2023 16:23:21,jhonyalanda@unimayor.edu.co,5,5,Que sea más horas ,.,5,4,4,4,4,4,4,4,4
+11/27/2023 16:29:30,jburbano@unimayor.edu.co,5,5,,"Fueron de mucha utilidad poder enfrentarnos a proyectos dirigidos a entornos que podríamos encontrarnos en la realidad o a nivel de industria, para poder tener una percepción más acertada y tener en cuenta diferentes factores para su desarrollo.",5,5,5,5,5,5,5,5,5
+11/27/2023 16:30:14,fabianjaramillo@unimayor.edu.co,5,5,,,5,5,5,5,5,5,5,5,5
+11/27/2023 16:40:46,jaimecastillo@unimayor.edu.co,5,5,,"Exelenete -  Generar los proyectos  en modelos c4 -  - charlas y katas de arquitectura , todo fue super educativo me gusto muchisimo ",5,5,5,5,5,5,5,5,5
+11/27/2023 16:48:01,junior.colla@unimayor.edu.co,5,5,,,5,5,5,5,5,5,4,4,5
+11/28/2023 9:16:12,wvargas@unimayor.edu.co,5,5,,Hacer más de este tipo de prácticas ,4,4,5,5,5,5,5,5,5
+11/28/2023 9:24:19,davidandres@unimayor.edu.co,5,5,Es excelente ,,5,5,5,5,5,5,5,5,5
+11/28/2023 9:25:28,mishell_fernandez@unimayor.edu.co,5,5,"Le agregaría que se realizarán más actividades como la que se realizó con las katas, ya que permiten obtener una mejor información de las industrias. ","Fueron estrategias muy acertadas, que nos ayudaron a adquirir mucho conocimiento ",5,4,5,4,4,4,4,4,4
+11/28/2023 9:26:36,ivarona@unimayor.edu.co,4,5,Más invitaciones a profesores de afuera ,Aunque fue mucha información a organizar me pareció interesante  la metodología ,4,4,5,3,3,4,5,4,5
+11/28/2023 9:29:18,adolfo.campo@unimayor.edu.co,5,5,,Me parece una muy buena estrategia ya que de esa forma se va trabajando paso a paso lo que se va aprendiendo y permite una mayor comprensión de las arquitecturas ,5,5,5,5,5,5,5,5,5
+11/28/2023 9:33:30,jacalambas@unimayor.edu.co,5,5,.,"Las Katas son muy interesantes, dinámicas y a la vez ponemos en práctica lo aprendido en la asignatura ",5,5,5,5,5,5,5,5,5
+11/28/2023 9:44:18,omar_quinayas@unimayor.edu.co,4,4,Que de. Mas tiempo para las charlas,Es una arquitectura para que se siga implementando en futuras clase de la universidad colegio mayor del cauca,4,4,4,4,4,4,4,4,4
+11/28/2023 9:48:17,jpcollazos@unimayor.edu.co,5,5,Que nos den más horas y que sigan con clases teórico-prácticas basadas en experiencias y conocimientos de cómo se trabaja en la realidad y lo que se busca en cuanto a conocimiento y habilidades ,"Que fueron excelentes, se instruyeron de forma perfecta y nos dio pies para el manejo de cada enseñanza bajo las prácticas y la implementación ",5,5,5,5,5,5,5,5,5
+11/28/2023 9:48:50,vsdiaz@unimayor.edu.co,4,4,Mas practica en clase,"Mini-proyectos, charlas y kata ",3,4,3,4,4,3,4,4,4
+11/28/2023 9:58:30,angiehurtado@unimayor.edu.co,5,4,"El curso fue muy bueno. La profe nos ha compartido su experiencia desde su punto de vista, y eso, por mi parte, me parece muy positivo. Su habilidad para transmitir información ha sido excelente y nos ha facilitado la comprensión de temas o conceptos complejos.
+
+Como en todo, puede que hayan quedado preguntas sin resolver, pero solo eso.
+Y seria muy bueno que en temas futuros se abordara, por ejemplo, la tematica que vimos sobre las Las Katas.
+
+Igualmente, agradezco a la profe por el tiempo y esfuerzo que dedicó para dar el curso de arquitectura, a pesar de que no le dieron las 03 HORAS seguidas, lo cual hubiera sido mucho mejor y sin mas. 
+
+¡Muchas gracias!
+Chau profe :)",,5,5,5,5,5,5,5,5,5
+11/28/2023 10:32:40,avvidal@unimayor.edu.co,5,5,Ma laboratorios ,"Muy bueno, te ayudan a darte cuenta hay mucho por aprender ",5,4,4,4,4,5,4,5,4

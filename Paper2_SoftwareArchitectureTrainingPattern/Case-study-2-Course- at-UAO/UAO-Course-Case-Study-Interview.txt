@@ -1,0 +1,92 @@
+UAO Course Case Study Interview
+--------------------------------
+1. ¿Cómo se llama la asignatura donde se aplicó la Guía, en qué semestre de dicta, de qué programa(s) la matriculan?
+
+ Respuesta:
+
+ La asignatura se llama Ingeniería de Software I y está dedicada al ciclo de desarrollo del software e involucra temas de arquitectura de software. Se dicta en quinto semestre y tiene 3 créditos académicos. Es una asignatura obligatoria para los estudiantes del programa de Ingeniería Informática y es electiva para el programa  de Ingeniería Multimedia.
+ 
+La UAO tiene además al asignatura Ingeniería de Software II, dedicada a temas de calidad de software.
+	
+La Universidad también tiene una asignatura electiva de Arquitectura de Software donde se trabajan distintos estilos de arquitectura. 
+	
+2. Describa qué temas de arquitectura de software se tratan en la asignatura Ingeniería de Software I.
+
+Respuesta:
+
+La asignatura está dividida en tres cortes. El primero dedicado a la ingeniería de requisitos. El segundo corte abarca los temas de diseño, por ejemplo, arquitectura de software, estilo de arquitectura en capas y MVC y diagramación de la arquitectura.  En el curso no se alcanza a trabajar estilos de arquitectura distribuidos.
+	
+3.	Describa cómo es la estrategia de aprender arquitectura a través de un proyecto real de empresa.
+
+Respuesta:
+
+La asignatura trabaja con un proyecto de empresa. En este semestre (2022.2) estamos trabajando con OL Software. Esta empresa genera un proyecto pequeño de tal forma que pueda ser implementado en el curso. Este semestre estamos trabajando en el proyecto llamado Mapa de Conocimiento. El canal de comunicación con la empresa es el arquitecto de software quien se encarga de dar los requisitos y dar asesoría en la toma de decisiones de los estudiantes. 
+
+Las decisiones de qué tipo de arquitectura, el tipo de tecnología es la adecuada está a cargo de los estudiantes y son guiados por el docente y el arquitecto de la empresa.
+
+El proyecto se desarrolla en equipo de 3 estudiantes. El equipo que presente la mejor solución, generalmente tiene opción de seguir trabajando en la empresa. Esta incorporación se hace mediante una prueba que los estudiantes presentan ante la empresa finalizado el curso. Generalmente los estudiantes se vinculan medio tiempo y reciben capacitaciones posteriores.
+	
+4. Tiene alguna encuesta que permitió medir la satisfacción del cliente cuando se le entregan los proyectos de desarrollo?
+
+Respuesta:
+
+El curso tiene un enfoque iterativo e incremental. La primera entrega es donde se entregan historias de usuario y unos prototipos de la interfaz de usuario de baja fidelidad. De esta entrega hay una realimentación por parte de la empresa. La segunda entrega es un prototipo software funcional. Finalmente, la tercera entrega es el producto software implementado en su totalidad.  En cada una de las entregas existen criterios de evaluación por parte del docente. En la tercera entrega es la única que tiene criterios de evaluación de la empresa, por ejemplo, si el producto se adecua a sus necesidades,  originalidad, innovación del producto, calidad de la presentación oral que hacen los estudiantes.  
+
+Al final del semestre, la empresa ya tiene un conocimiento desempeño de cada equipo, en base a quienes son los que mas han preguntado y han presentado la mejor solución. El producto entregado al cliente está compuesto por codigo fuente, pruebas y documentación de arquitectura.
+
+
+5.	Tiene alguna encuesta que permitió medir la satisfacción de los estudiantes?
+
+Respuesta:
+
+De forma institucional en la semana 7 los estudiantes aplican una co-evaluación (vistos como oportunidades de mejora) respecto al curso, metodologia, recursos, el profesor. Además, la Institución aplica a los estudiantes al final del curso una encuesta de satisfacción. Sin embargo estos resultados no son accesibles al docente sino un tiempo después. Es decir, el docente no tiene acceso a esos resultados. Además, esas encuestas podrían no se objetivas, pues los estudiantes generalmente las llenan con mucha prisa. 
+	
+6.	¿Qué ventajas tiene su estrategia de trabajar un proyecto real?
+
+Respuesta:
+
+La principal ventaja es tener la oportunidad de comunicarse directamente con personas de una empresa: gerentes, arquitectos, desarrolladores. Esto genera mucho valor al estudiante porque reciben comunicación y realimentación, marca una diferencia importante.
+	
+7.	¿Qué dificultades tiene su estrategia de enseñanza con proyectos reales? 
+
+Respuesta:
+
+Se han presentado muchas dificultades. Una fue que bases de datos no era prerrequisito de la asignatura, esto impedía desarrollar software real. Una dificultad es el tiempo. Una dificultad que se presenta en general en el curso es que material extra que se les da como guias, ejemplos, artículo, los estudiantes no los leen. 
+
+Generalmente la empresa les da un espacio de una hora semanal. En este espacio los estudiantes tienen que saludar, presentarse, contar lo que están haciendo. En ocasiones las preguntas que hacen les faltan fundamentos, o dan respuestas sin fundamento suficiente.  Esto refleja poca lectura de los estudiantes en el trabajo de tiempo independiente.
+
+Otra dificultad es sincronizar los temas teóricos con el avance del proyecto. Hay un punto en que esta sincronización no es posible, cuando ya deberían estar implementando aun están validando historias de usuario. Esto se presenta cuando los estudiantes no aprovechan adecuadamente el tiempo con la empresa para revisar diseños, prototipos o arquitectura.
+
+No hemos tenido problemas consiguiendo empresas que nos faciliten proyectos para el curso. Esto que para otras universidades es difícil, en nuestro caso ha sido sencillo. En trabajos y proyectos previos con empresas se han ido abriendo espacios de cooperación. Unas semanas antes de iniciar semestre, se indaga a las empresas si tienen proyectos y ese espacio ha estado disponible siempre. La dificultad si ha sido al momento de concretar reuniones porque son muy ocupados. Entonces, definir el proyecto y su alcance es algo que tarda un tiempo y se debe hacer con anterioridad. Cuando no se ha podido concretar proyectos con empresas, hay la opción de recurrir a la División de Tecnologías de la Información de la misma Universidad y encontrar proyectos. Sin embargo para los estudiantes es más atractivo trabajar con empresas de afuera para tener la opción de vincularse a futuro cercano con la empresa. 
+
+8.	Qué otras estrategias ha empleado para enseñar arquitectura de software que puedan ser replicables por otros docentes en otras universidades?
+
+Respuesta:
+
+Mi estrategia, a pesar que mi fuerte no es la ingeniería de software, ha sido estar en contacto permanente con las empresas para ver sus necesidades e ir re-acomodando los temas del curso. Sería bueno poder contar con el apoyo de otros docentes de otras universidades. Además tener un respositorio de ejemplos, material para preparar las clases. Ha marcado un hito importante el contacto con Manuel Zapata de quien se ha aprendido muchas cosas de él para luego poder aplicarlas en el curso. Pero me gustaría seguir cualificando en temas de arquitectura de software.
+
+9. Considera que las estrategias propuestas en la guía ¿permiten acercar la formación en arquitectura de software al mundo real de la industria de software? 
+
+Respuesta:
+
+Si. Sin embargo, con el objetivo de acercar a los estudiantes al sector productivo, es necesario apoyarse de profesionales en el tema. En ese sentido, debe existir una relación fuerte entre el docente y expertos en la industria del software.
+	
+10. ¿Qué le hace falta a la guía propuesta para que cumpla su propósito de proponer un conjunto de pasos y estrategias de apoyo en el diseño y ejecución de cursos de arquitecturas de software a nivel de pre-grado?
+
+Respuesta:
+
+Considero que a la guía no le falta algo concreto, es una hoja de ruta completa. Lo que haría falta para que el curso de arquitectura se imparta de la mejor forma posible, es contar con aliados del sector productivo para que los casos/problemas/problemas correspondan con los retos de las empresas.
+	
+
+11.	La planificación del curso de arquitectura de software resulta fácil de realizar mediante el uso de la guía (1: totalmente en desacuerdo, 5: totalmente de acuerdo)
+
+
+Respuesta: 4
+	
+12.	¿uso de la guía me permite ahorrar tiempo de planificación? (1: totalmente en desacuerdo, 5: totalmente de acuerdo)
+	
+Respuesta: 4
+
+13. Al usar la guía siento que soy más productivo para planificar las actividades del curso. (1: totalmente en desacuerdo, 5: totalmente de acuerdo)}	
+
+Respuesta: 4
